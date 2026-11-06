@@ -1,0 +1,14 @@
+[
+    {
+        "roll": "26013020167",
+        "name": "Amit",
+        "course": "BTech",
+        "marks": 90.0
+    },
+    {
+        "roll": "26013020189",
+        "name": "Aryan",
+        "course": "Btech",
+        "marks": 95.0
+    }
+]
